@@ -1,4 +1,4 @@
-# Event Handling in React Lab
+# Event Handling in React Lab c
 
 ## Learning Goals
 
